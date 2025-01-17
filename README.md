@@ -1,8 +1,19 @@
-# React + Vite
+# Zoogram
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Zoogram is a photo-sharing platform inspired by Instagram. It allows users to share, like, and comment on photos while building a community of connections.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- User authentication (Sign up, Log in, Log out)
+- Upload and share photos
+- Like and comment on posts
+- Explore posts from other users
+- Responsive design for desktop and mobile
+- Real-time updates for likes and comments
+
+## 🛠️ Technologies Used
+
+- **Frontend**: React, Chakra UI
+- **Authentication**: Firebase Authentication
+- **Storage**: Cloudinary (for photo uploads)
+- **Version Control**: Git & GitHub
